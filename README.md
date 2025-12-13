@@ -69,6 +69,3 @@ project-folder/
 * Melatih manipulasi DOM
 * Membuat aplikasi web sederhana tanpa framework
 
----
-
-⭐ Jangan lupa beri **star** jika proyek ini membantu!
