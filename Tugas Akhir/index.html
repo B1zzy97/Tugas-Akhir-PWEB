@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Projek Akhir</title>
+    <link rel="stylesheet" href="style.css">
+
+</head>
+<body>
+    <div class="container">
+        <h1>PEMINJAMAN BUKU</h1>
+        <form id="crudForm">
+            <input type="text" id="judul" placeholder="Judul Buku" required>
+            <input type="date" id="tanggal_masuk" placeholder="Date IN" required>
+            <input type="date" id="tanggal_keluar" placeholder="Date Out" required>
+            <button type="submit" class="btn-add" id="submitBtn">Add</button>
+            <button type="button" class="btn-update" id="updateBtn" style="display: none;">Update</button>
+        </form>
+        <table id="crudTable">
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Judul Buku</th>
+                    <th>Tanggal Peminjaman</th>
+                    <th>Tanggal Pengembalian</th>
+                    <th>Tindakan</th>
+                </tr>
+            </thead>
+            <tbody id="tableBody">
+            </tbody>
+        </table>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
