@@ -1,4 +1,4 @@
-# Aplikasi Peminjaman Buku (CRUD)
+# Aplikasi Peminjaman Buku
 
 Aplikasi **Peminjaman Buku** adalah aplikasi web sederhana berbasis **HTML, CSS, dan JavaScript** yang digunakan untuk mencatat data peminjaman dan pengembalian buku. Aplikasi ini mendukung operasi **CRUD (Create, Read, Update, Delete)** dan cocok digunakan sebagai **projek akhir / tugas kuliah**.
 
