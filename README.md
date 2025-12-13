@@ -1,5 +1,6 @@
 # Tugas-Akhir-PWEB
 📚 Aplikasi Peminjaman Buku (CRUD)
+
 *Aplikasi Peminjaman Buku* adalah aplikasi web sederhana berbasis HTML, CSS, dan JavaScript yang digunakan untuk mencatat data peminjaman dan pengembalian buku. Aplikasi ini mendukung operasi CRUD (Create, Read, Update, Delete) dan cocok digunakan sebagai projek akhir / tugas kuliah.
 
 ✨ Fitur
@@ -15,12 +16,12 @@
 - CSS – Tampilan dan desain antarmuka
 - JavaScript – Logika CRUD dan manipulasi DOM
 
-🚀 Cara Menjalankan Aplikasi
-_Clone repository ini:_
-git clone https://github.com/username/peminjaman-buku.git
-_Masuk ke folder project:_
-cd peminjaman-buku
-Buka file index.html menggunakan browser (Chrome, Edge, Firefox, dll)
+*🚀 Cara Menjalankan Aplikasi*
+ - _Clone repository ini:_
+- git clone https://github.com/B1zzy97/peminjaman-buku.git
+- _Masuk ke folder project:_
+- cd peminjaman-buku
+- Buka file index.html menggunakan browser (Chrome, Edge, Firefox, dll)
 
 📝 Cara Menggunakan
 - Masukkan Judul Buku
