@@ -41,7 +41,7 @@ project-folder/
 1. Clone repository ini:
 
    ```bash
-   git clone https://github.com/Bizzy97/Tugaas-Akhir-PWEB.git
+   git clone https://github.com/Bizzy97/Tugas-Akhir-PWEB.git
    ```
 2. Masuk ke folder project:
 
