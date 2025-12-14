@@ -41,12 +41,12 @@ project-folder/
 1. Clone repository ini:
 
    ```bash
-   git clone https://github.com/username/peminjaman-buku.git
+   git clone https://github.com/Bizzy97/Tugaas-Akhir-PWEB.git
    ```
 2. Masuk ke folder project:
 
    ```bash
-   cd peminjaman-buku
+   cd Tugas-Akhir
    ```
 3. Buka file `index.html` menggunakan browser (Chrome, Edge, Firefox, dll)
 
